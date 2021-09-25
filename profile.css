@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+}
+.profile_picture{
+    height: 200px;
+    width: 500px;
+    font-size: 170px;
+    outline: black;
+}
